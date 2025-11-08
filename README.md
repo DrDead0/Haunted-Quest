@@ -21,10 +21,10 @@
 
 1. Clone the repository.
    ```bash
-   https://github.com/DarkDeity001/Digital-Dynasty_Unity-Engine.git
+      https://github.com/DrDead0/Haunted-Quest.git
    ```
 2. Open the project in Unity.
 
-3. Explore the world of Digital Dynasty, engage in battles, complete quests, and collect treasures to become the ultimate hero.
+3. Explore the world of Haunted Quest, engage in battles, complete quests, and collect treasures to become the ultimate hero.
 
 
