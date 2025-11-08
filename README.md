@@ -1,6 +1,6 @@
-# Digital Dynasty
+# Haunted Quest
 
-***Digital Dynasty*** is a 2D action RPG with sprite-based graphics created in Unity using C# scripts and unity game Mechanics. This game offers captivating battles against monsters, thrilling quests to embark on, and opportunities to explore every corner to collect coins and valuable items.
+***Haunted Quest*** is a 2D action RPG with sprite-based graphics created in Unity using C# scripts and unity game Mechanics. This game offers captivating battles against monsters, thrilling quests to embark on, and opportunities to explore every corner to collect coins and valuable items.
 
 ## **Key Features:**
 
